@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    background-color: #980E0E;
+    font-family: Arial;
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 28px;
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+}
+.menu {
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+.menu a{
+    color: lightgray;
+    text-decoration: none;
+    margin-left: 15px;
+}
+.mainNew{
+    background-color: #92D2D0;
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: space-around;
+    padding: 10px;
+}
+.conorImg img{
+    width: 400px;
+    height: 270px;
+    align-items: center;
+}
+.conorText{
+    width: 65%;
+    align-items: center;
+}
+.latestNew{
+    font-family: Arial;
+    font-size: 22px;
+    text-align: center;
+    margin: 20px 0px;
+    font-weight: bold;
+}
+.boxText .boxMainText{
+    font-family: Arial;
+    font-size: 19px;
+    font-weight: bold;
+}
+.boxNew{
+    display: flex;
+    font-family: Arial;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+.box1 img{
+    width: 100%;
+}
+.box2 img{
+    width: 100%;
+}
+.box3 img{
+    width: 100%;
+}
+.box4 img{
+    width: 100%;
+}
+.box1 p{
+    color: #404040;
+}
+.box2 p{
+    color: #404040;
+}
+.box3 p{
+    color: #404040;
+}
+.box4 p{
+    color: #404040;
+}
+.box1{
+    width: 23%;
+    border: 1px #DEDEDE solid;
+}
+.box2{
+    width: 23%;
+    border: 1px #DEDEDE solid;
+}
+.box3{
+    width: 23%;
+    border: 1px #DEDEDE solid;
+}
+.box4{
+    width: 23%;
+    border: 1px #DEDEDE solid;
+}
+.boxText{
+    margin-top: 0;
+    padding: 15px;
+}
+.boxText button{
+    background-color: #980E0E;
+    color: white;
+    border: 0px #980E0E solid;
+    padding: 5px 10px;
+}
+.box2 button{
+    margin-top: 3px;
+}
+.box3 button{
+    margin-top: 22px;
+}
+.box4 button{
+    margin-top: 22px;
+}
